@@ -30,6 +30,16 @@ window.addEventListener('DOMContentLoaded', function() {
       alamat: 'Bahsidua-dua Dsn 3',
       
     },
+         {
+      name: 'Feby Pratiwi ',
+      umur: 17,
+      Jurusan: 'Rekayasa Perangkat Lunak',
+      hobi: '',
+      photo: 'feby.jpg',
+      kata:'',
+      alamat: 'Pulau gambar dsn 17',
+      
+    }, 
         {
       name: 'Asyifa Putri Agisti',
       umur: 18,
