@@ -11,13 +11,13 @@ window.addEventListener('DOMContentLoaded', function() {
       
     },
     {
-      name: 'jessika fajariah',
+      name: 'Jessika Fajariah',
       umur: 17,
-      Jurusan: 'COMPUTER SCIENCE',
-      hobi: 'mencoding',
+      Jurusan: 'Rekayasa Perangkat Lunak (Rpl)',
+      hobi: 'healing/Rebahan',
       photo: 'jesika.jpg',
-      kata:'coding is fun',
-      alamat: 'Jalan Jenderal Sudirman No. 123, Jakarta',
+      kata:'Ketika kamu merasa kehilangan harapan, ingat bahwa Tuhan telah menciptakan rencana terindah untuk hidup kita.',
+      alamat: 'Pasar Miring, Dsn Sempurna No 46A ',
       
     },
     {
