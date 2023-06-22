@@ -15,7 +15,7 @@ window.addEventListener('DOMContentLoaded', function() {
       umur: 17,
       Jurusan: 'Rekayasa Perangkat Lunak (Rpl)',
       hobi: 'healing/Rebahan',
-      photo: 'jesika.jpg',
+      photo: 'jesika1.jpg',
       kata:'Ketika kamu merasa kehilangan harapan, ingat bahwa Tuhan telah menciptakan rencana terindah untuk hidup kita.',
       alamat: 'Pasar Miring, Dsn Sempurna No 46A ',
       
