@@ -11,6 +11,16 @@ window.addEventListener('DOMContentLoaded', function() {
       
     },
     {
+      name: 'jessika fajariah',
+      umur: 17,
+      Jurusan: 'COMPUTER SCIENCE',
+      hobi: 'mencoding',
+      photo: 'jesika.jpg',
+      kata:'coding is fun',
+      alamat: 'Jalan Jenderal Sudirman No. 123, Jakarta',
+      
+    },
+    {
       name: 'Duwi Yanti',
       umur: 17,
       Jurusan: 'Rekayasa Perangkat Lunak',
