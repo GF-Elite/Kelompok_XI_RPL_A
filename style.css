@@ -98,3 +98,11 @@ img {
         body.dark-theme #icon {
             filter: invert(1);
         }
+#modalNama,
+#modalumur,
+#modalMajor,
+#modalalamat,
+#modalHobby,
+#modalkata {
+  color: red;
+}
