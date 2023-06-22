@@ -55,7 +55,9 @@
   </nav>
 
   <!-- Header -->
+  
   <header>
+        <img src="gambar/moon.png" id="icon">
     <h1>Bio Data Kelas</h1>
   </header>
 
@@ -103,5 +105,18 @@
   </footer>
 </div>
   <script src="script.js"></script>
+   <script>
+      
+      var icon = document.getElementById("icon");
+      
+      icon.onclick = function(){
+        document.body.classList.toggle("dark-theme");
+        if(document.body.classList.contains("dark-theme")){
+          icon.src="gambar/sun.png"
+        }else{
+          icon.src="gambar/moon.png";
+        }
+      }
+      </script>
 </body>
 </html>
