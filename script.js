@@ -66,9 +66,9 @@ window.addEventListener('DOMContentLoaded', function() {
       Jurusan: 'COMPUTER SCIENCE',
       hobi: 'coding',
       photo: 'melati.jpg',
-      kata:'aku',
+      kata:'Gegagalan adalah hal yg biasa di setiap percobaan, dan jangan lah menyerah ttp semangat',
       alamat: 'Sidodadi batu delapan',
-      motivasi: 'Gegagalan adalah hal yg biasa di setiap percobaan, dan jangan lah menyerah ttp semangat',
+      motivasi: '',
     },
 
 {
