@@ -67,7 +67,7 @@ window.addEventListener('DOMContentLoaded', function() {
       hobi: 'coding',
       photo: 'melati.jpg',
       kata:'aku',
-      alamat: 'Jalan Jenderal Sudirman No. 123, Jakarta',
+      alamat: 'Sidodadi batu delapan',
       motivasi: 'coding is fun',
     },
 
