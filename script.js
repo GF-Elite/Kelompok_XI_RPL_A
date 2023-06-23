@@ -68,7 +68,7 @@ window.addEventListener('DOMContentLoaded', function() {
       photo: 'melati.jpg',
       kata:'aku',
       alamat: 'Sidodadi batu delapan',
-      motivasi: 'coding is fun',
+      motivasi: 'Gegagalan adalah hal yg biasa di setiap percobaan, dan jangan lah menyerah ttp semangat',
     },
 
 {
