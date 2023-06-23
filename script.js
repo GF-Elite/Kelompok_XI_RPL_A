@@ -44,9 +44,9 @@ window.addEventListener('DOMContentLoaded', function() {
       name: 'Feby Pratiwi ',
       umur: 17,
       Jurusan: 'Rekayasa Perangkat Lunak',
-      hobi: '',
+      hobi: 'Hobi ku rebahann',
       photo: 'feby.jpg',
-      kata:'',
+      kata:'Tidak ada istilah gagal dalam hidup, yang ada hanya sukses dan belum berhasil',
       alamat: 'Pulau gambar dsn 17',
       
     }, 
