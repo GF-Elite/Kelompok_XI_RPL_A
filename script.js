@@ -88,7 +88,7 @@ window.addEventListener('DOMContentLoaded', function() {
       hobi: 'coding',
       photo: 'saya.jpg',
       kata:'Error dalam coding bukanlah kegagalan, melainkan kesempatan untuk menemukan solusi yang lebih baik.',
-      alamat: 'Jalan Jenderal Sudirman No. 123, Jakarta',
+      alamat: 'DEsa tanjung mulia',
       
     },
     // Data siswa lainnya
