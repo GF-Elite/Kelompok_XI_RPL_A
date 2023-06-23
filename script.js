@@ -83,7 +83,7 @@ window.addEventListener('DOMContentLoaded', function() {
     },
         {
       name: 'andika',
-      umur: 18,
+      umur: 17,
       Jurusan: 'rpl',
       hobi: 'coding',
       photo: 'saya.jpg',
