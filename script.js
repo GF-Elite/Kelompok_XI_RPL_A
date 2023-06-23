@@ -84,7 +84,7 @@ window.addEventListener('DOMContentLoaded', function() {
         {
       name: 'andika',
       umur: 18,
-      Jurusan: 'COMPUTER SCIENCE',
+      Jurusan: 'rpl',
       hobi: 'coding',
       photo: 'saya.jpg',
       kata:'Error dalam coding bukanlah kegagalan, melainkan kesempatan untuk menemukan solusi yang lebih baik.',
