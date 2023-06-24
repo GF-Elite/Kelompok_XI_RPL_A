@@ -10,6 +10,7 @@ window.addEventListener('DOMContentLoaded', function() {
       alamat: 'Petangguhan dsn 3',
       
     },
+    
     {
       name: 'Jessika Fajariah',
       umur: 17,
@@ -70,7 +71,40 @@ window.addEventListener('DOMContentLoaded', function() {
       alamat: 'Sidodadi batu delapan',
       motivasi: '',
     },
+{
+      name: 'mirdayanti',
+      umur: 16,
+      Jurusan: 'rpl',
+      hobi: 'coding',
+      photo: 'yanti.jpg',
+      kata:'',
+      alamat: 'DEsa sennah',
+      
+    },
 
+{
+      name: 'Azharine elsya',
+      umur: 16,
+      Jurusan: 'rpl',
+      hobi: 'coding',
+      photo: 'elsa.jpg',
+      kata:'Error dalam coding bukanlah kegagalan, melainkan kesempatan untuk menemukan solusi yang lebih baik.',
+      alamat: 'DEsa sennah',
+      
+    },
+    // Data siswa lainnya
+    {
+      name: 'Melisa ariani nasution',
+      umur: 16,
+      Jurusan: 'rpl',
+      hobi: 'coding',
+      photo: 'melisa.jpg',
+      kata:'Error dalam coding bukanlah kegagalan, melainkan kesempatan untuk menemukan solusi yang lebih baik.',
+      alamat: 'Desa jati rejo bt8',
+      
+    },
+    // Data siswa lainnya
+    // Data siswa lainnya
 {
       name: 'Alvin Raditya Risby',
       umur: 18,
